@@ -14,4 +14,4 @@ jobs:
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "now.sh"
-          GITHUB_TOKEN: ${{secrets.TOKEN}}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
