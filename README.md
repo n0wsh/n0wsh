@@ -1,1 +1,1 @@
-![tryhackme stats](https://raw.githubusercontent.com/n0wsh/n0wsh/master/assets/thm_propic.png)
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/now.sh.png)
